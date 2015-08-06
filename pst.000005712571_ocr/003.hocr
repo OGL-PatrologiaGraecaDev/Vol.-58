@@ -1,0 +1,28 @@
+  <div class='ocr_page' id='page_1' title='image "/cluster/home/n/w/nwhite01/storage/ocr_20150623/58/pst.000005712571/003.png"; bbox 0 0 2077 3162; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 720 936 1266 1088">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 720 936 1266 1088">
+     <span class='ocr_line' id='line_1_1' title="bbox 720 936 1266 1088; baseline -0.015 0"><span class='ocrx_word' id='word_1_1' title='bbox 720 936 1266 1088; x_wconf 48' lang='lat' dir='ltr'><strong>PENNSerHLﬁ/ANIA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 656 1115 1330 1181">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 656 1115 1330 1181">
+     <span class='ocr_line' id='line_1_2' title="bbox 656 1115 1330 1181; baseline -0.016 0"><span class='ocrx_word' id='word_1_2' title='bbox 656 1122 865 1181; x_wconf 93' lang='lat' dir='ltr'><strong>STATE</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 914 1115 1330 1178; x_wconf 93' lang='lat' dir='ltr'><strong>UNIVERSITY</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 871 1423 2075">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 656 1115 1330 1319">
+     <span class='ocr_line' id='line_1_3' title="bbox 656 1115 1330 1181; baseline -0.016 0"><span class='ocrx_word' id='word_1_4' title='bbox 656 1122 865 1181; x_wconf 89' lang='lat' dir='ltr'><strong>STATE</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 914 1115 1330 1178; x_wconf 89' lang='lat' dir='ltr'><strong>UNIVERSITY</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 845 1210 1141 1319; baseline -0.014 -51"><span class='ocrx_word' id='word_1_6' title='bbox 845 1210 1141 1319; x_wconf 39' lang='lat' dir='ltr'><strong>LIBRﬁRY</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 844 2920 1338 3156">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1208 3089 1333 3156">
+     <span class='ocr_line' id='line_1_5' title="bbox 1208 3089 1333 3156; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 1208 3089 1333 3156; x_wconf 19' lang='lat'><strong>&quot;;</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
